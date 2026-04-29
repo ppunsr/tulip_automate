@@ -32,9 +32,9 @@ When building a specific slide, refer to the following blueprint to determine it
 
 *   **Slide 8 (Registers vs. Points Collected):**
     *   **Requires Graph:** `graph/registers_vs_collecting_points_graph.png` (Bar chart).
-    *   **Requires Metrics:** Data for "Users who Only Collected" and "Users who Collected & Redeemed".
+    *   **Requires Metrics:** Data for "Users who Only Collected" and "Users who Collected & Redeemed". Also requires "Number of new users in the month", "Number of users collecting points in the month", and their Month-over-Month (MoM) increase/decrease compared to the previous month.
     *   **Requires Demographic Data:** Top Customer Type Breakdown, specifically highlighting "Kiosk/Counter Beverage Shop" (ร้านขายเครื่องดื่มชง แบบซุ้ม หรือ เคาน์เตอร์).
-    *   **Requires Text:** 2-3 key findings bullet points summarizing the collection/redemption behavior and the dominant customer segment.
+    *   **Requires Text:** 2-3 key findings bullet points summarizing the collection/redemption behavior, the new user and collecting user trends (MoM), and the dominant customer segment.
     *   **Action:** Call `query-orchestrator` for "Slide 8 data" to get the combined PostgreSQL data (using both the collect/redeem snapshot and the customer type breakdown queries).
 
 *   **Slide 14 (Loyalty Program User Types):**
