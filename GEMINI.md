@@ -19,6 +19,7 @@ This directory serves as a workspace for automating data extraction and reportin
 *   `ssh-guest-*.pem`: SSH private keys used for securely tunneling into the database network.
 
 ### Gemini CLI Skills
+*   `powerpoint-data-contain`: Manages the layout blueprint for each PowerPoint slide (defining what text, graphs, and data go on which page).
 *   `query-orchestrator`: Manages mapping between report slides and the specific SQL queries, data, and graphs needed for that slide.
 *   `postgres-query`: Fetches PostgreSQL data securely via SSH tunnel.
 *   `graph-maker`: Automates the generation of `.png` graphs from provided data.
@@ -51,4 +52,4 @@ python3 scripts/generate_line_friends_graph.py
 *   **Data Processing:** `pandas` is the standard library used for structuring and manipulating data within scripts.
 *   **Database Access:** Connections to the production database MUST be routed through an SSH tunnel (using `sshtunnel` and `psycopg2`). Direct connections are not supported.
 *   **Visualizations:** Graphs are generated using `matplotlib`, applying custom formatting (clear labels, specific color palettes) and saved at 300 DPI for presentation quality into the `graph/` folder.
-*   **Automation:** Repeated workflows are encapsulated into Gemini CLI skills (e.g., `query-orchestrator`, `data-analyzer`, `pptx-builder`) to allow the agent to execute them autonomously upon request in coordination with the conductor track plans.
+*   **Automation:** Repeated workflows are encapsulated into Gemini CLI skills (e.g., `powerpoint-data-contain`, `query-orchestrator`, `data-analyzer`, `pptx-builder`) to allow the agent to execute them autonomously upon request in coordination with the conductor track plans.
