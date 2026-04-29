@@ -12,11 +12,14 @@ This directory serves as a workspace for automating data extraction and reportin
     *   `analyze_pptx.py`: Helper script for inspecting PowerPoint template layouts.
 *   `graph/`: Directory where the high-resolution output graphs (e.g., `line_friends_report_graph.png`) are saved.
 *   `payloads/`: Contains extracted JSON data payloads used for graph generation and analysis.
+*   `queries/`: Contains raw `.json` files storing complex SQL queries for execution against the database.
 *   `conductor/`: Contains the overall project plan and orchestration documentation (e.g., `monthly-report.md`).
+*   `config/`: Contains mapping configuration (e.g., `slide_mapping.json`) connecting PowerPoint slide numbers to their required data.
 *   `Tulip_example.pptx` & `Monthly_Report_Test.pptx`: The PowerPoint templates and output files.
 *   `ssh-guest-*.pem`: SSH private keys used for securely tunneling into the database network.
 
 ### Gemini CLI Skills
+*   `query-orchestrator`: Manages mapping between report slides and the specific SQL queries, data, and graphs needed for that slide.
 *   `postgres-query`: Fetches PostgreSQL data securely via SSH tunnel.
 *   `graph-maker`: Automates the generation of `.png` graphs from provided data.
 *   `data-analyzer`: Analyzes extracted data to generate key finding bullet points.
@@ -48,4 +51,4 @@ python3 scripts/generate_line_friends_graph.py
 *   **Data Processing:** `pandas` is the standard library used for structuring and manipulating data within scripts.
 *   **Database Access:** Connections to the production database MUST be routed through an SSH tunnel (using `sshtunnel` and `psycopg2`). Direct connections are not supported.
 *   **Visualizations:** Graphs are generated using `matplotlib`, applying custom formatting (clear labels, specific color palettes) and saved at 300 DPI for presentation quality into the `graph/` folder.
-*   **Automation:** Repeated workflows are encapsulated into Gemini CLI skills (e.g., `data-analyzer`, `pptx-builder`) to allow the agent to execute them autonomously upon request in coordination with the conductor track plans.
+*   **Automation:** Repeated workflows are encapsulated into Gemini CLI skills (e.g., `query-orchestrator`, `data-analyzer`, `pptx-builder`) to allow the agent to execute them autonomously upon request in coordination with the conductor track plans.
