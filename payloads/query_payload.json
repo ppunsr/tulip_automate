@@ -1,0 +1,4 @@
+{
+  "description": "BigQuery: Traffic Sources. Extracts monthly friends gained, grouped into specific ad/url paths and 'Other'.",
+  "sql": "SELECT CAST(month_date AS STRING) AS date_record, IFNULL(MAX(CASE WHEN path_group = 'Gain friends ad' THEN total_gained END), 0) AS gain_friends_ad, IFNULL(MAX(CASE WHEN path_group = 'Add Friend URLs' THEN total_gained END), 0) AS add_friend_urls, IFNULL(MAX(CASE WHEN path_group = 'Other' THEN total_gained END), 0) AS other_sources FROM (SELECT DATE_TRUNC(DATE(date), MONTH) AS month_date, CASE WHEN path = 'Gain friends ad' THEN 'Gain friends ad' WHEN path = '\"Add friend\" URLs, QR codes, and buttons' THEN 'Add Friend URLs' ELSE 'Other' END AS path_group, SUM(gained) AS total_gained FROM `dentsu-merkle-tulip.tulip_dataset.friend_path` GROUP BY month_date, path_group) GROUP BY month_date ORDER BY month_date"
+}

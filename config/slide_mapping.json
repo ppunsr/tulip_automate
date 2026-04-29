@@ -1,0 +1,212 @@
+[
+  {
+    "slide_index": 0,
+    "slide_number": 1,
+    "section": "Cover & Agenda",
+    "title": "Title Slide",
+    "purpose": "Campaign Name & Year cover page."
+  },
+  {
+    "slide_index": 1,
+    "slide_number": 2,
+    "section": "Cover & Agenda",
+    "title": "Agenda",
+    "purpose": "Table of Contents for the report."
+  },
+  {
+    "slide_index": 2,
+    "slide_number": 3,
+    "section": "Cover & Agenda",
+    "title": "Section Header: LINE Performance",
+    "purpose": "Declares the start of the LINE Performance section and notes the report month."
+  },
+  {
+    "slide_index": 3,
+    "slide_number": 4,
+    "section": "Section 1: Line Friends & Traffic",
+    "title": "Sub-section Header: TULIP LINE FRIEND",
+    "purpose": "Divider for Line Friend metrics."
+  },
+  {
+    "slide_index": 4,
+    "slide_number": 5,
+    "section": "Section 1: Line Friends & Traffic",
+    "title": "Line Friends Growth",
+    "purpose": "Time-series graph showing total friends added, organic growth, and block rates over time."
+  },
+  {
+    "slide_index": 5,
+    "slide_number": 6,
+    "section": "Section 1: Line Friends & Traffic",
+    "title": "Sub-section Header: TULIP TRAFFIC SOURCE",
+    "purpose": "Divider for Traffic Source metrics."
+  },
+  {
+    "slide_index": 6,
+    "slide_number": 7,
+    "section": "Section 1: Line Friends & Traffic",
+    "title": "Traffic Sources",
+    "purpose": "Time-series graph showing where new friends came from (e.g., LINE Lap, Organic) and totals."
+  },
+  {
+    "slide_index": 7,
+    "slide_number": 8,
+    "section": "Section 2: Registration & Redemption",
+    "title": "Registers vs. Points Collected",
+    "purpose": "Bar chart comparing the trend of new registered users against points collected across months."
+  },
+  {
+    "slide_index": 8,
+    "slide_number": 9,
+    "section": "Section 2: Registration & Redemption",
+    "title": "Redeem (By Items)",
+    "purpose": "Chart showing the total number of physical reward items redeemed by users."
+  },
+  {
+    "slide_index": 9,
+    "slide_number": 10,
+    "section": "Section 2: Registration & Redemption",
+    "title": "Redeem (By Points)",
+    "purpose": "Bar graph showing the total amount of points spent/burned on redemptions."
+  },
+  {
+    "slide_index": 10,
+    "slide_number": 11,
+    "section": "Section 3: Points Economy",
+    "title": "Sub-section Header: TULIP LINE POINTS",
+    "purpose": "Divider for Points Economy metrics."
+  },
+  {
+    "slide_index": 11,
+    "slide_number": 12,
+    "section": "Section 3: Points Economy",
+    "title": "Points Accumulation",
+    "purpose": "Breakdown of actual points collected vs. points accumulated from previous campaigns."
+  },
+  {
+    "slide_index": 12,
+    "slide_number": 13,
+    "section": "Section 3: Points Economy",
+    "title": "Points Analysis & Recommendations",
+    "purpose": "Text-heavy slide summarizing point balances and strategic recommendations."
+  },
+  {
+    "slide_index": 13,
+    "slide_number": 14,
+    "section": "Section 3: Points Economy",
+    "title": "Loyalty Program User Types",
+    "purpose": "Breakdown of the loyalty program users by category (e.g., specific store types)."
+  },
+  {
+    "slide_index": 14,
+    "slide_number": 15,
+    "section": "Section 3: Points Economy",
+    "title": "Point Holding Ranges",
+    "purpose": "Shows the distribution of users based on how many points they hold (e.g., Range 1-50 pts vs 1-200 pts)."
+  },
+  {
+    "slide_index": 15,
+    "slide_number": 16,
+    "section": "Section 4: Demographics & Engagement",
+    "title": "Sub-section Header: TULIP FAN DEMO",
+    "purpose": "Divider for Demographics metrics."
+  },
+  {
+    "slide_index": 16,
+    "slide_number": 17,
+    "section": "Section 4: Demographics & Engagement",
+    "title": "Demographics (New Users)",
+    "purpose": "Age and gender breakdown specifically for new users in the report month."
+  },
+  {
+    "slide_index": 17,
+    "slide_number": 18,
+    "section": "Section 4: Demographics & Engagement",
+    "title": "Demographics (All Users)",
+    "purpose": "Age and gender breakdown for the entire loyalty user base."
+  },
+  {
+    "slide_index": 18,
+    "slide_number": 19,
+    "section": "Section 4: Demographics & Engagement",
+    "title": "Sub-section Header: TULIP RICH MENU ENGAGEMENT",
+    "purpose": "Divider for Rich Menu metrics."
+  },
+  {
+    "slide_index": 19,
+    "slide_number": 20,
+    "section": "Section 4: Demographics & Engagement",
+    "title": "Rich Menu Clicks",
+    "purpose": "Tracks engagement and clicks on the LINE Official Account's bottom menu."
+  },
+  {
+    "slide_index": 20,
+    "slide_number": 21,
+    "section": "Section 5: Survey / FAQ Data",
+    "title": "Sub-section Header: TULIP FAQ",
+    "purpose": "Divider for Survey/FAQ metrics."
+  },
+  {
+    "slide_index": 21,
+    "slide_number": 22,
+    "section": "Section 5: Survey / FAQ Data",
+    "title": "Customer Identity",
+    "purpose": "Survey results identifying the types of businesses using Tulip."
+  },
+  {
+    "slide_index": 22,
+    "slide_number": 23,
+    "section": "Section 5: Survey / FAQ Data",
+    "title": "Buying Habits",
+    "purpose": "Survey results on purchase frequency (e.g., 'More than 1 time per week')."
+  },
+  {
+    "slide_index": 23,
+    "slide_number": 24,
+    "section": "Section 5: Survey / FAQ Data",
+    "title": "Buying Frequency (Quantity)",
+    "purpose": "Survey results on how many pouches they buy per purchase."
+  },
+  {
+    "slide_index": 24,
+    "slide_number": 25,
+    "section": "Section 5: Survey / FAQ Data",
+    "title": "Brand Alternatives",
+    "purpose": "Survey results on what competitor brands they use."
+  },
+  {
+    "slide_index": 25,
+    "slide_number": 26,
+    "section": "Section 6: Content & Summary",
+    "title": "Sub-section Header: TULIP CONTENTS",
+    "purpose": "Divider for Content performance."
+  },
+  {
+    "slide_index": 26,
+    "slide_number": 27,
+    "section": "Section 6: Content & Summary",
+    "title": "Content Performance",
+    "purpose": "Tracks delivery, open rates, and performance of specific broadcast posts/messages."
+  },
+  {
+    "slide_index": 27,
+    "slide_number": 28,
+    "section": "Section 6: Content & Summary",
+    "title": "Sub-section Header: TULIP SUMMARY",
+    "purpose": "Divider for Summary section."
+  },
+  {
+    "slide_index": 28,
+    "slide_number": 29,
+    "section": "Section 6: Content & Summary",
+    "title": "Executive Summary",
+    "purpose": "The final slide providing a high-level summary of the month's performance and strategic recommendations."
+  },
+  {
+    "slide_index": 29,
+    "slide_number": 30,
+    "section": "Section 6: Content & Summary",
+    "title": "Thank You",
+    "purpose": "Thank you slide."
+  }
+]

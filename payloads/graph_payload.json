@@ -1,0 +1,88 @@
+{
+  "output_filename": "graph/traffic_sources_graph.png",
+  "title": "TULIP TRAFFIC SOURCE (May 2025 - Feb 2026)",
+  "x_label": "Date",
+  "y_label": "Friends Gained",
+  "chart_type": "line",
+  "calculate_mom": false,
+  "x_axis_col": "date_record",
+  "data": [
+    {
+      "date_record": "2025-05-01",
+      "gain_friends_ad": 0,
+      "add_friend_urls": 1117,
+      "other_sources": 34
+    },
+    {
+      "date_record": "2025-06-01",
+      "gain_friends_ad": 0,
+      "add_friend_urls": 913,
+      "other_sources": 15
+    },
+    {
+      "date_record": "2025-07-01",
+      "gain_friends_ad": 0,
+      "add_friend_urls": 828,
+      "other_sources": 33
+    },
+    {
+      "date_record": "2025-08-01",
+      "gain_friends_ad": 3032,
+      "add_friend_urls": 702,
+      "other_sources": 75
+    },
+    {
+      "date_record": "2025-09-01",
+      "gain_friends_ad": 2612,
+      "add_friend_urls": 848,
+      "other_sources": 117
+    },
+    {
+      "date_record": "2025-10-01",
+      "gain_friends_ad": 2918,
+      "add_friend_urls": 771,
+      "other_sources": 121
+    },
+    {
+      "date_record": "2025-11-01",
+      "gain_friends_ad": 0,
+      "add_friend_urls": 900,
+      "other_sources": 92
+    },
+    {
+      "date_record": "2025-12-01",
+      "gain_friends_ad": 4786,
+      "add_friend_urls": 1116,
+      "other_sources": 113
+    },
+    {
+      "date_record": "2026-01-01",
+      "gain_friends_ad": 5801,
+      "add_friend_urls": 879,
+      "other_sources": 61
+    },
+    {
+      "date_record": "2026-02-01",
+      "gain_friends_ad": 1853,
+      "add_friend_urls": 827,
+      "other_sources": 71
+    }
+  ],
+  "series": [
+    {
+      "column": "gain_friends_ad",
+      "label": "Gain Friends Ad",
+      "color": "#36a2eb"
+    },
+    {
+      "column": "add_friend_urls",
+      "label": "Add Friend URLs",
+      "color": "#4bc0c0"
+    },
+    {
+      "column": "other_sources",
+      "label": "Other",
+      "color": "#ff6384"
+    }
+  ]
+}

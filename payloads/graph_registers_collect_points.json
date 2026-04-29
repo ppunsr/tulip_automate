@@ -1,0 +1,27 @@
+{
+  "output_filename": "graph/registers_vs_collecting_points_graph.png",
+  "title": "REGISTERS (CUMULATIVE) VS COLLECT POINT USERS (MONTHLY)",
+  "x_label": "Month",
+  "y_label": "Users Count",
+  "chart_type": "bar",
+  "calculate_mom": false,
+  "x_axis_col": "date_record",
+  "data": [
+    {"date_record": "2025-05-01", "total_registers": 16100, "monthly_collecting_users": 2380},
+    {"date_record": "2025-06-01", "total_registers": 16735, "monthly_collecting_users": 2018},
+    {"date_record": "2025-07-01", "total_registers": 17305, "monthly_collecting_users": 1666},
+    {"date_record": "2025-08-01", "total_registers": 17953, "monthly_collecting_users": 1934},
+    {"date_record": "2025-09-01", "total_registers": 18660, "monthly_collecting_users": 2246},
+    {"date_record": "2025-10-01", "total_registers": 19304, "monthly_collecting_users": 2132},
+    {"date_record": "2025-11-01", "total_registers": 20038, "monthly_collecting_users": 2527},
+    {"date_record": "2025-12-01", "total_registers": 21001, "monthly_collecting_users": 3169},
+    {"date_record": "2026-01-01", "total_registers": 21667, "monthly_collecting_users": 2581},
+    {"date_record": "2026-02-01", "total_registers": 22338, "monthly_collecting_users": 2848},
+    {"date_record": "2026-03-01", "total_registers": 23077, "monthly_collecting_users": 3026},
+    {"date_record": "2026-04-01", "total_registers": 23521, "monthly_collecting_users": 2474}
+  ],
+  "series": [
+    {"column": "total_registers", "label": "Cumulative Registered Users", "color": "#5C3225"},
+    {"column": "monthly_collecting_users", "label": "Monthly Collecting Point Users", "color": "#E97132"}
+  ]
+}
