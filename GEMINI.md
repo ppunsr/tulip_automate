@@ -8,23 +8,22 @@ This directory serves as a workspace for automating data extraction and reportin
 
 *   `scripts/`: Contains executable Python scripts.
     *   `test_db_connection.py`: Establishes an SSH tunnel and connects to the `tulip_crm_prod` database.
-    *   `generate_*_graph.py`: Scripts using `pandas` and `matplotlib` to generate specific data visualization charts.
     *   `analyze_pptx.py`: Helper script for inspecting PowerPoint template layouts.
-*   `graph/`: Directory where the high-resolution output graphs (e.g., `line_friends_report_graph.png`) are saved.
-*   `payloads/`: Contains extracted JSON data payloads used for graph generation and analysis.
+*   `Graph_Month/` (e.g., `Graph_March/`, `Graph_February/`): Directories where the high-resolution output graphs are saved and archived by month.
+*   `payloads/`: Contains extracted JSON data payloads used for graph generation (via `graph-maker` skill) and analysis.
 *   `queries/`: Contains raw `.json` files storing complex SQL queries for execution against the database.
+*   `fonts/`: Contains official fonts (like TH Sarabun New) used for generating graphs with proper Thai character support.
 *   `conductor/`: Contains the overall project plan and orchestration documentation (e.g., `monthly-report.md`).
 *   `config/`: Contains mapping configuration (e.g., `slide_mapping.json`) connecting PowerPoint slide numbers to their required data.
-*   `Tulip_example.pptx` & `Monthly_Report_Test.pptx`: The PowerPoint templates and output files.
+*   `Tulip_example.pptx`: The PowerPoint template used as the base for generated reports.
 *   `ssh-guest-*.pem`: SSH private keys used for securely tunneling into the database network.
 
 ### Gemini CLI Skills
 *   `powerpoint-data-contain`: Manages the layout blueprint for each PowerPoint slide (defining what text, graphs, and data go on which page).
 *   `query-orchestrator`: Manages mapping between report slides and the specific SQL queries, data, and graphs needed for that slide.
 *   `postgres-query`: Fetches PostgreSQL data securely via SSH tunnel.
-*   `graph-maker`: Automates the generation of `.png` graphs from provided data.
+*   `graph-maker`: Automates the generation of `.png` graphs from provided JSON payloads in the `payloads/` folder.
 *   `data-analyzer`: Analyzes extracted data to generate key finding bullet points.
-*   `pptx-builder`: Inserts generated graphs and text insights into the `.pptx` template.
 
 ## Building and Running
 
@@ -42,14 +41,14 @@ python3 scripts/test_db_connection.py
 ```
 
 **Generating a Report Graph:**
-Execute a report generator to create a visualization:
+Graphs are generated using the `graph-maker` skill by passing the appropriate JSON payload:
 ```bash
-python3 scripts/generate_line_friends_graph.py
+python3 .gemini/skills/graph-maker/scripts/make_graph.py "$(cat payloads/graph_line_friends.json)"
 ```
 
 ## Development Conventions
 
 *   **Data Processing:** `pandas` is the standard library used for structuring and manipulating data within scripts.
 *   **Database Access:** Connections to the production database MUST be routed through an SSH tunnel (using `sshtunnel` and `psycopg2`). Direct connections are not supported.
-*   **Visualizations:** Graphs are generated using `matplotlib`, applying custom formatting (clear labels, specific color palettes) and saved at 300 DPI for presentation quality into the `graph/` folder.
-*   **Automation:** Repeated workflows are encapsulated into Gemini CLI skills (e.g., `powerpoint-data-contain`, `query-orchestrator`, `data-analyzer`, `pptx-builder`) to allow the agent to execute them autonomously upon request in coordination with the conductor track plans.
+*   **Visualizations:** Graphs are generated programmatically via the `graph-maker` skill using `matplotlib`, applying custom formatting (clear labels, specific color palettes), and saving at 300 DPI for presentation quality into their respective month folders (e.g., `Graph_March/`).
+*   **Automation:** Repeated workflows are encapsulated into Gemini CLI skills (e.g., `powerpoint-data-contain`, `query-orchestrator`, `data-analyzer`) to allow the agent to execute them autonomously upon request in coordination with the conductor track plans.
