@@ -1,0 +1,23 @@
+{
+  "output_filename": "graph/redeem_by_points_graph.png",
+  "title": "Redeem (By Points) - March 2026",
+  "x_label": "Reward Item",
+  "y_label": "Total Points Redeemed",
+  "chart_type": "bar",
+  "calculate_mom": false,
+  "x_axis_col": "reward",
+  "data": [
+    {"reward": "ผลิตภัณฑ์ทิวลิป", "total_redeem": 17000},
+    {"reward": "True Money 100", "total_redeem": 1480},
+    {"reward": "True Money 500", "total_redeem": 5850},
+    {"reward": "บัตรของขวัญ MK", "total_redeem": 2000},
+    {"reward": "พัดลม Hatari", "total_redeem": 6300},
+    {"reward": "บัตรเติมน้ำมัน", "total_redeem": 3600},
+    {"reward": "เครื่องปั่น", "total_redeem": 3500},
+    {"reward": "ร่มสนาม", "total_redeem": 1800},
+    {"reward": "เก้าอี้สนาม", "total_redeem": 1200}
+  ],
+  "series": [
+    {"column": "total_redeem", "label": "Points Redeemed", "color": "#5C3225"}
+  ]
+}

@@ -1,0 +1,3441 @@
+[
+    {
+        "slide_index": 1,
+        "slide_role": "1_Body 1",
+        "objects": [
+            {
+                "name": "Picture 1",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 0.0,
+                "width_inches": 13.333334426946632,
+                "height_inches": 7.5
+            },
+            {
+                "name": "Picture 2",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 5.293725940507437,
+                "y_inches": 2.3770614610673664,
+                "width_inches": 2.7458759842519687,
+                "height_inches": 2.7458759842519687
+            },
+            {
+                "name": "TextBox 7",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 2.7142016622922136,
+                "y_inches": 4.565217629046369,
+                "width_inches": 7.904922353455818,
+                "height_inches": 1.2453772965879266,
+                "text": "TULIP LINE CRM 2nd Year\nLucky Draw and Redeem Campaigns 2025 - 2026",
+                "font_size_pt": 48.0
+            },
+            {
+                "name": "Group 14",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Rectangle 5",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.339290244969379,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.360099518810149,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 2,
+        "slide_role": "1_Body 1",
+        "objects": [
+            {
+                "name": "Picture 2",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "TextBox 9",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 4.4010717410323705,
+                "y_inches": 5.287635608048994,
+                "width_inches": 4.531183289588801,
+                "height_inches": 0.4039063867016623,
+                "text": "LINE REPORT – MAY and JUNE 2024",
+                "font_size_pt": 18.0
+            },
+            {
+                "name": "Rectangle: Rounded Corners 18",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 4.56073053368329,
+                "y_inches": 0.759841426071741,
+                "width_inches": 4.211864610673666,
+                "height_inches": 0.6008902012248469,
+                "text": "AGENDA",
+                "font_size_pt": 18.0
+            },
+            {
+                "name": "Rectangle 21",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            },
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.013888888888888888,
+                "y_inches": 1.9859733158355206,
+                "width_inches": 6.666669947506562,
+                "height_inches": 1.3043667979002624
+            },
+            {
+                "name": "TextBox 3",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": -0.2561482939632546,
+                "y_inches": 2.247544838145232,
+                "width_inches": 6.856060804899387,
+                "height_inches": 1.1107425634295713,
+                "text": "LINE Performance",
+                "font_size_pt": 36.0
+            },
+            {
+                "name": "Rectangle 4",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.10416338582677165,
+                "y_inches": 1.829481627296588,
+                "width_inches": 5.875003280839895,
+                "height_inches": 1.3043667979002624
+            },
+            {
+                "name": "Rectangle 5",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 3.4705489938757657,
+                "width_inches": 8.19411854768154,
+                "height_inches": 1.3043667979002624
+            },
+            {
+                "name": "TextBox 6",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.09027449693788277,
+                "y_inches": 3.759015748031496,
+                "width_inches": 8.19411854768154,
+                "height_inches": 0.706836176727909,
+                "text": "Media Performance",
+                "font_size_pt": 36.0
+            },
+            {
+                "name": "Rectangle 7",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.09027449693788277,
+                "y_inches": 3.3140573053368327,
+                "width_inches": 7.221067366579177,
+                "height_inches": 1.3043667979002624
+            },
+            {
+                "name": "Rectangle 8",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 4.906890857392826,
+                "width_inches": 9.86111111111111,
+                "height_inches": 1.3043678915135608
+            },
+            {
+                "name": "TextBox 10",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.8334962817147856,
+                "y_inches": 5.205254811898513,
+                "width_inches": 8.19411854768154,
+                "height_inches": 0.7080752405949257,
+                "text": "KOLs Performance",
+                "font_size_pt": 36.0
+            },
+            {
+                "name": "Rectangle 11",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.09027449693788277,
+                "y_inches": 4.754318678915135,
+                "width_inches": 8.586067366579178,
+                "height_inches": 1.4348031496062992
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 3,
+        "slide_role": "1_Body 1",
+        "objects": [
+            {
+                "name": "Picture 2",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Group 3",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Rectangle 21",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            },
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -3.2808398950131235e-06,
+                "y_inches": 2.898487532808399,
+                "width_inches": 13.333333333333334,
+                "height_inches": 1.9097222222222223
+            },
+            {
+                "name": "TextBox 5",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.19523731408573927,
+                "y_inches": 3.180171697287839,
+                "width_inches": 6.856060804899387,
+                "height_inches": 1.346353893263342,
+                "text": "LINE Performance\n\nPeriod : March 2026",
+                "font_size_pt": 36.0
+            },
+            {
+                "name": "Rectangle 4",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.09027777777777778,
+                "y_inches": 2.7419958442694665,
+                "width_inches": 11.75,
+                "height_inches": 1.9097222222222223
+            },
+            {
+                "name": "Oval 11",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 8.38935586176728,
+                "y_inches": 1.3355391513560806,
+                "width_inches": 5.288664698162729,
+                "height_inches": 5.03561898512686
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 4,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 17",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 0.0,
+                "width_inches": 4.354166666666667,
+                "height_inches": 7.335730533683289,
+                "text": "TULIP LINE FRIEND",
+                "font_size_pt": 54.0
+            },
+            {
+                "name": "Rectangle 3",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.09375,
+                "y_inches": 0.20900262467191602,
+                "width_inches": 4.541666666666667,
+                "height_inches": 6.917726377952756
+            },
+            {
+                "name": "Rectangle 4",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.09944335083114611,
+                "y_inches": 0.20900262467191602,
+                "width_inches": 4.541666666666667,
+                "height_inches": 6.917726377952756
+            },
+            {
+                "name": "Rectangle 8",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 4.354166666666667,
+                "y_inches": 0.0,
+                "width_inches": 8.979166666666666,
+                "height_inches": 7.335729440069991
+            },
+            {
+                "name": "Picture 5",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 3.401264216972878,
+                "y_inches": -0.0820330271216098,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 5,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            },
+            {
+                "name": "Picture 5",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Group 20",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.2675328083989501,
+                "y_inches": 0.08794728783902012,
+                "width_inches": 7.434915791776028,
+                "height_inches": 0.9729472878390201
+            },
+            {
+                "name": "TextBox 29",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 7.434915791776028,
+                "height_inches": 0.9087893700787402,
+                "text": "TULIP LINE FRIENDS\n(Period: March 26)",
+                "font_size_pt": 32.0
+            },
+            {
+                "name": "Straight Connector 8",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.3796828521434821,
+                "width_inches": 0.0,
+                "height_inches": 0.8225010936132984
+            },
+            {
+                "name": "TextBox 10",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.3330435258092738,
+                "y_inches": 1.1355391513560804,
+                "width_inches": 7.707517497812773,
+                "height_inches": 0.9424475065616797,
+                "text": "Findings\nAverage block rate remained at 8.28% through Jan 2025\nIn March 2026, LINE gained 4,408 new friends\nThe lower block-rate trend suggests better traffic quality: the x2 points and redemption-led value exchange is attracting more purchase-intent users than the previous lucky draw model.",
+                "font_size_pt": 10.0
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 6,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 17",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 0.0,
+                "width_inches": 4.354166666666667,
+                "height_inches": 7.335730533683289,
+                "text": "TULIP TRAFFIC SOURCE",
+                "font_size_pt": 54.0
+            },
+            {
+                "name": "Rectangle 8",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.09375,
+                "y_inches": 0.20900262467191602,
+                "width_inches": 4.541666666666667,
+                "height_inches": 6.917726377952756
+            },
+            {
+                "name": "Rectangle 9",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.09944335083114611,
+                "y_inches": 0.20900262467191602,
+                "width_inches": 4.541666666666667,
+                "height_inches": 6.917726377952756
+            },
+            {
+                "name": "Rectangle 10",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 4.354166666666667,
+                "y_inches": 0.0,
+                "width_inches": 8.979166666666666,
+                "height_inches": 7.335729440069991
+            },
+            {
+                "name": "Picture 11",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 3.401264216972878,
+                "y_inches": -0.0820330271216098,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 7,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Group 20",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.32040682414698163,
+                "y_inches": 0.12440507436570429,
+                "width_inches": 10.415704286964129,
+                "height_inches": 0.9729472878390201
+            },
+            {
+                "name": "TextBox 29",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 10.415704286964129,
+                "height_inches": 0.9087893700787402,
+                "text": "TULIP LINE TRAFFIC SOURCES - LINE GAIN FRIENDS\n(Period: March 26)",
+                "font_size_pt": 32.0
+            },
+            {
+                "name": "Straight Connector 8",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.3796828521434821,
+                "width_inches": 0.0,
+                "height_inches": 0.8225010936132984
+            },
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            },
+            {
+                "name": "Picture 5",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Rectangle 16",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 11.287936351706037,
+                "y_inches": 2.1873162729658793,
+                "width_inches": 0.9439632545931759,
+                "height_inches": 0.6631211723534558,
+                "text": "Total new added: \n4,408",
+                "font_size_pt": 9.0
+            },
+            {
+                "name": "Rectangle 18",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 11.287936351706037,
+                "y_inches": 2.8814621609798774,
+                "width_inches": 0.9439632545931759,
+                "height_inches": 0.6631211723534558,
+                "text": "Total Block: \n1,414",
+                "font_size_pt": 9.0
+            },
+            {
+                "name": "Rectangle 21",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 11.727302055993,
+                "y_inches": 4.3845833333333335,
+                "width_inches": 0.9439632545931759,
+                "height_inches": 0.8175853018372703,
+                "text": "Majority Came from Line lap:\n3,428",
+                "font_size_pt": 9.0
+            },
+            {
+                "name": "TextBox 24",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.32040682414698163,
+                "y_inches": 1.4599376640419948,
+                "width_inches": 5.685152012248469,
+                "height_inches": 0.9424475065616797,
+                "text": "Note\nAdd Friends traffic sources (Add Friend icon, Chat room button, Search, Share contact, Official Accounts list, LINE VOOM, Home tab, LINE Login, etc.) have very low individual volumes and have therefore been consolidated under “Other” for simplified reporting and clearer analysis.",
+                "font_size_pt": 10.0
+            },
+            {
+                "name": "TextBox 6",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.3165113735783027,
+                "y_inches": 2.5423359580052494,
+                "width_inches": 5.689047462817148,
+                "height_inches": 1.4473304899387576,
+                "text": "Findings\nLINE Lap was the dominant acquisition channel, contributing 3,428 new users making it the clear growth engine and contributing roughly four-fifths of total new friends in March. LINE Lap performance increased 1,575 users or 85%.\nAlthough user blocks Although user blocks increased from 1,252 to 1,414 in line with the higher acquisition volume, so the more important signal is whether registered-user and active-user conversion",
+                "font_size_pt": 10.0
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 8,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Group 20",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.29720253718285217,
+                "y_inches": 0.09658573928258968,
+                "width_inches": 7.434915791776028,
+                "height_inches": 0.9729472878390201
+            },
+            {
+                "name": "TextBox 29",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 7.434915791776028,
+                "height_inches": 0.9087893700787402,
+                "text": "TULIP LINE REGISTERS\n(Period: March 26)",
+                "font_size_pt": 32.0
+            },
+            {
+                "name": "Straight Connector 8",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.3796828521434821,
+                "width_inches": 0.0,
+                "height_inches": 0.8225010936132984
+            },
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            },
+            {
+                "name": "Picture 5",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Oval 44",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 11.352505468066491,
+                "y_inches": 1.0229713473315836,
+                "width_inches": 1.2372178477690288,
+                "height_inches": 1.2529265091863517,
+                "text": "New Register User in March : +739\n(3.3%)",
+                "font_size_pt": 10.0
+            },
+            {
+                "name": "Group 13",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 8.209156824146982,
+                "y_inches": 2.833542213473316,
+                "width_inches": 4.62537510936133,
+                "height_inches": 4.04628937007874
+            },
+            {
+                "name": "Oval 14",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -1.6888265529308837,
+                "y_inches": 1.258698600174978,
+                "width_inches": 1.3729943132108486,
+                "height_inches": 1.1734656605424323,
+                "text": "Collect Point User in March: 3,026\n(+6.25%)",
+                "font_size_pt": 10.0
+            },
+            {
+                "name": "Group 15",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": -5.2130260279965,
+                "y_inches": 2.4869674103237096,
+                "width_inches": 5.132981189851269,
+                "height_inches": 2.8180205599300088
+            },
+            {
+                "name": "Group 18",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 6.896181102362204,
+                "y_inches": 3.573163823272091,
+                "width_inches": 6.231056430446194,
+                "height_inches": 2.2215102799650044
+            },
+            {
+                "name": "Group 37",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 6.16163823272091,
+                "y_inches": 0.8431430446194226,
+                "width_inches": 6.231056430446194,
+                "height_inches": 1.9154899387576554
+            },
+            {
+                "name": "Rectangle: Rounded Corners 40",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 4.729350393700788,
+                "y_inches": 2.4831922572178478,
+                "width_inches": 2.9270833333333335,
+                "height_inches": 0.9270833333333334,
+                "text": "คนที่มาสะสมคะแนนและแลกของรางวัล 386 คน",
+                "font_size_pt": 12.0
+            },
+            {
+                "name": "Rectangle: Rounded Corners 41",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 7.918300524934383,
+                "y_inches": 2.4831911636045496,
+                "width_inches": 3.0421062992125982,
+                "height_inches": 0.9270833333333334,
+                "text": "คนที่มาสะสมคะแนนแต่ไม่แลกของรางวัล 2,640 คน",
+                "font_size_pt": 12.0
+            },
+            {
+                "name": "Straight Arrow Connector 41",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 6.1233748906386705,
+                "y_inches": 4.122403762029746,
+                "width_inches": 0.0,
+                "height_inches": 0.27627734033245843
+            },
+            {
+                "name": "Straight Arrow Connector 42",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 9.253994969378828,
+                "y_inches": 4.086395450568679,
+                "width_inches": 0.0,
+                "height_inches": 0.27627734033245843
+            },
+            {
+                "name": "Isosceles Triangle 39",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 11.038205380577427,
+                "y_inches": 0.5371227034120735,
+                "width_inches": 0.4868460192475941,
+                "height_inches": 0.2531988188976378
+            },
+            {
+                "name": "Rectangle: Rounded Corners 64",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 6.972050524934383,
+                "y_inches": 6.066945538057743,
+                "width_inches": 2.9270833333333335,
+                "height_inches": 0.9270833333333334,
+                "text": "กลุ่มร้านขายเครื่องดื่มชงแบบซุ้ม หรือเคาน์เตอร์ \nมีจำนวนมากที่สุด \nจำนวน 182 คน",
+                "font_size_pt": 11.0
+            },
+            {
+                "name": "Rectangle: Rounded Corners 65",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 10.077339238845145,
+                "y_inches": 6.058117891513561,
+                "width_inches": 2.9270833333333335,
+                "height_inches": 0.9270833333333334,
+                "text": "กลุ่มร้านขายเครื่องดื่มชงแบบซุ้ม หรือเคาน์เตอร์ \nมีจำนวนมากที่สุด \nจำนวน 1,275 คน",
+                "font_size_pt": 11.0
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 9,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            },
+            {
+                "name": "Picture 5",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Group 20",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.23809711286089238,
+                "y_inches": 0.11310148731408574,
+                "width_inches": 7.434915791776028,
+                "height_inches": 0.9729472878390201
+            },
+            {
+                "name": "TextBox 29",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 7.434915791776028,
+                "height_inches": 0.9087893700787402,
+                "text": "TULIP LINE REDEEM(1) \n(Period: March 26)",
+                "font_size_pt": 32.0
+            },
+            {
+                "name": "Straight Connector 8",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.3796828521434821,
+                "width_inches": 0.0,
+                "height_inches": 0.8225010936132984
+            },
+            {
+                "name": "Rectangle 21",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 5.913195538057742,
+                "y_inches": 6.910461504811899,
+                "width_inches": 1.8958311461067368,
+                "height_inches": 0.3611111111111111,
+                "text": "By items",
+                "font_size_pt": 12.0
+            },
+            {
+                "name": "TextBox 22",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 6.31792760279965,
+                "y_inches": 6.665288713910761,
+                "width_inches": 1.0863670166229222,
+                "height_inches": 0.28610017497812773,
+                "text": "Total 923 items",
+                "font_size_pt": 8.0
+            },
+            {
+                "name": "TextBox 6",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 6.754864391951006,
+                "y_inches": 1.988494094488189,
+                "width_inches": 5.7992093175853014,
+                "height_inches": 1.4473304899387576,
+                "text": "Findings\nRedemption volume improved to 923 items from 429 redeeming users, indicating that the March x2 points push and added reward choices helped bring more members into the redeem journey.\nSince campaign launch in August 2025, 1,118 users have redeemed rewards, which means redemption is growing but still concentrated in a relatively small portion of the base.",
+                "font_size_pt": 10.0
+            },
+            {
+                "name": "Rectangle 17",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 10.227103018372704,
+                "y_inches": 1.2259514435695538,
+                "width_inches": 2.8958114610673666,
+                "height_inches": 0.3936964129483815,
+                "text": "From 429 Users Who Redeem Items on March 26",
+                "font_size_pt": 10.0
+            },
+            {
+                "name": "Group 4",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 2.0420363079615047,
+                "y_inches": 1.1124529746281715,
+                "width_inches": 1.1293635170603675,
+                "height_inches": 0.7573140857392826
+            },
+            {
+                "name": "Picture 7",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 2.5560706474190726,
+                "y_inches": 6.026058617672791,
+                "width_inches": 0.5445034995625547,
+                "height_inches": 0.7554461942257218
+            },
+            {
+                "name": "Picture 9",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 3.1409306649168856,
+                "y_inches": 6.026058617672791,
+                "width_inches": 0.5445034995625547,
+                "height_inches": 0.7573140857392826
+            },
+            {
+                "name": "รูปภาพ 51",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 11.434726596675416,
+                "y_inches": 5.514782370953631,
+                "width_inches": 0.8762357830271216,
+                "height_inches": 0.7288320209973753
+            },
+            {
+                "name": "Picture 11",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 9.288337707786527,
+                "y_inches": 5.039593175853018,
+                "width_inches": 1.035865048118985,
+                "height_inches": 1.068059930008749
+            },
+            {
+                "name": "รูปภาพ 49",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 10.671352799650045,
+                "y_inches": 5.274593175853019,
+                "width_inches": 0.2565944881889764,
+                "height_inches": 0.9777930883639545
+            },
+            {
+                "name": "Picture 13",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 7.535174978127734,
+                "y_inches": 5.055470253718285,
+                "width_inches": 0.5161318897637795,
+                "height_inches": 1.0581561679790026
+            },
+            {
+                "name": "Group 14",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 4.279879702537182,
+                "y_inches": 5.090528215223097,
+                "width_inches": 1.0700962379702537,
+                "height_inches": 0.8767016622922135
+            },
+            {
+                "name": "รูปภาพ 39",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 4.631925853018373,
+                "y_inches": 4.024534120734908,
+                "width_inches": 1.8988363954505687,
+                "height_inches": 0.9944510061242344
+            },
+            {
+                "name": "รูปภาพ 58",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 4.3480850831146105,
+                "y_inches": 4.533876859142607,
+                "width_inches": 1.8988363954505687,
+                "height_inches": 0.9944510061242344
+            },
+            {
+                "name": "รูปภาพ 59",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 4.06624343832021,
+                "y_inches": 5.114607392825897,
+                "width_inches": 1.8988363954505687,
+                "height_inches": 0.9944510061242344
+            },
+            {
+                "name": "Picture 19",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 8.310991907261592,
+                "y_inches": 5.011011592300962,
+                "width_inches": 0.9773458005249344,
+                "height_inches": 1.1701837270341207
+            },
+            {
+                "name": "TextBox 23",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 6.747805118110236,
+                "y_inches": 3.6289884076990377,
+                "width_inches": 5.7992093175853014,
+                "height_inches": 1.144400699912511,
+                "text": "Findings\nAmong all 1,118 redeemers, 865 users (77%) came from redeem-only behavior, while 253 users (23%)  also joined lucky draw.\nHowever, since the lucky draw campaign launch in August 2025, only 1,978 users have joined lucky draw.",
+                "font_size_pt": 10.0
+            },
+            {
+                "name": "Picture 32",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 6.406040026246719,
+                "y_inches": 5.458511592300963,
+                "width_inches": 0.9001531058617673,
+                "height_inches": 0.6393613298337708
+            },
+            {
+                "name": "Picture 34",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 2.1771259842519686,
+                "y_inches": 5.171680883639545,
+                "width_inches": 1.11247375328084,
+                "height_inches": 0.7955479002624672
+            },
+            {
+                "name": "Picture 36",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 3.167917760279965,
+                "y_inches": 5.090528215223097,
+                "width_inches": 1.2047112860892388,
+                "height_inches": 0.861509186351706
+            },
+            {
+                "name": "Picture 38",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 5.334243219597551,
+                "y_inches": 5.203850612423447,
+                "width_inches": 0.977344706911636,
+                "height_inches": 0.977344706911636
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 10,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            },
+            {
+                "name": "Picture 5",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Group 20",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.24217957130358705,
+                "y_inches": 0.08945647419072617,
+                "width_inches": 7.434915791776028,
+                "height_inches": 0.9729472878390201
+            },
+            {
+                "name": "TextBox 29",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 7.434915791776028,
+                "height_inches": 0.9087893700787402,
+                "text": "TULIP LINE REDEEM (2) \n(Period: March 26)",
+                "font_size_pt": 32.0
+            },
+            {
+                "name": "Straight Connector 8",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.3796828521434821,
+                "width_inches": 0.0,
+                "height_inches": 0.8225010936132984
+            },
+            {
+                "name": "Rectangle 6",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 5.71875,
+                "y_inches": 7.049432414698162,
+                "width_inches": 1.8958311461067368,
+                "height_inches": 0.3611111111111111,
+                "text": "By Points",
+                "font_size_pt": 12.0
+            },
+            {
+                "name": "TextBox 7",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 5.898518153980753,
+                "y_inches": 6.786443569553806,
+                "width_inches": 1.5362937445319336,
+                "height_inches": 0.28610017497812773,
+                "text": "Total 42,730 Points",
+                "font_size_pt": 11.0
+            },
+            {
+                "name": "Rectangle 17",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 10.437521872265966,
+                "y_inches": 1.0107863079615047,
+                "width_inches": 2.8958114610673666,
+                "height_inches": 0.3936964129483815,
+                "text": "From 429 Users Who Redeem Items on March 26",
+                "font_size_pt": 10.0
+            },
+            {
+                "name": "Group 4",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 2.4206069553805776,
+                "y_inches": 1.1776618547681539,
+                "width_inches": 1.1293635170603675,
+                "height_inches": 0.7573140857392826
+            },
+            {
+                "name": "Picture 9",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 2.5560706474190726,
+                "y_inches": 6.026058617672791,
+                "width_inches": 0.5445034995625547,
+                "height_inches": 0.7554461942257218
+            },
+            {
+                "name": "Picture 10",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 3.1409306649168856,
+                "y_inches": 6.026058617672791,
+                "width_inches": 0.5445034995625547,
+                "height_inches": 0.7573140857392826
+            },
+            {
+                "name": "รูปภาพ 51",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 11.031468722659667,
+                "y_inches": 5.505025153105862,
+                "width_inches": 0.8762357830271216,
+                "height_inches": 0.7288320209973753
+            },
+            {
+                "name": "Picture 12",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 8.955580708661417,
+                "y_inches": 4.840579615048119,
+                "width_inches": 1.035865048118985,
+                "height_inches": 1.068059930008749
+            },
+            {
+                "name": "รูปภาพ 49",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 10.260888013998251,
+                "y_inches": 5.380544619422572,
+                "width_inches": 0.2565944881889764,
+                "height_inches": 0.9777930883639545
+            },
+            {
+                "name": "Picture 14",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 5.4737368766404195,
+                "y_inches": 4.040409011373578,
+                "width_inches": 0.5161318897637795,
+                "height_inches": 1.0581561679790026
+            },
+            {
+                "name": "Group 15",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 6.186080489938758,
+                "y_inches": 4.138741251093613,
+                "width_inches": 1.1714840332458443,
+                "height_inches": 0.9908573928258968
+            },
+            {
+                "name": "รูปภาพ 39",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 4.631925853018373,
+                "y_inches": 4.024534120734908,
+                "width_inches": 1.8988363954505687,
+                "height_inches": 0.9944510061242344
+            },
+            {
+                "name": "รูปภาพ 58",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 4.3480850831146105,
+                "y_inches": 4.533876859142607,
+                "width_inches": 1.8988363954505687,
+                "height_inches": 0.9944510061242344
+            },
+            {
+                "name": "รูปภาพ 59",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 4.06624343832021,
+                "y_inches": 5.114607392825897,
+                "width_inches": 1.8988363954505687,
+                "height_inches": 0.9944510061242344
+            },
+            {
+                "name": "Picture 21",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 7.330726159230096,
+                "y_inches": 4.436107830271216,
+                "width_inches": 0.9773458005249344,
+                "height_inches": 1.1701837270341207
+            },
+            {
+                "name": "Picture 24",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 4.328904199475065,
+                "y_inches": 4.560251531058618,
+                "width_inches": 0.9442804024496938,
+                "height_inches": 0.6707031933508312
+            },
+            {
+                "name": "Picture 26",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 8.008844050743656,
+                "y_inches": 5.2309547244094485,
+                "width_inches": 1.0875437445319336,
+                "height_inches": 0.7777198162729658
+            },
+            {
+                "name": "Picture 27",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 3.2289107611548555,
+                "y_inches": 3.8332633420822395,
+                "width_inches": 1.2047112860892388,
+                "height_inches": 0.861509186351706
+            },
+            {
+                "name": "Picture 28",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 2.3893482064741907,
+                "y_inches": 3.541392169728784,
+                "width_inches": 0.929332895888014,
+                "height_inches": 0.929332895888014
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 11,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 17",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 0.0,
+                "width_inches": 4.354166666666667,
+                "height_inches": 7.335730533683289,
+                "text": "TULIP LINE POINTS",
+                "font_size_pt": 54.0
+            },
+            {
+                "name": "Rectangle 3",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.09375,
+                "y_inches": 0.20900262467191602,
+                "width_inches": 4.541666666666667,
+                "height_inches": 6.917726377952756
+            },
+            {
+                "name": "Rectangle 4",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.09944335083114611,
+                "y_inches": 0.20900262467191602,
+                "width_inches": 4.541666666666667,
+                "height_inches": 6.917726377952756
+            },
+            {
+                "name": "Rectangle 6",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 4.354166666666667,
+                "y_inches": 0.0,
+                "width_inches": 8.979166666666666,
+                "height_inches": 7.335729440069991
+            },
+            {
+                "name": "Picture 7",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 3.401264216972878,
+                "y_inches": -0.0820330271216098,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 12,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            },
+            {
+                "name": "Picture 5",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Group 20",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.31723206474190724,
+                "y_inches": 0.1173086176727909,
+                "width_inches": 4.299409448818897,
+                "height_inches": 0.9729472878390201
+            },
+            {
+                "name": "TextBox 29",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 7.434915791776028,
+                "height_inches": 0.9087893700787402,
+                "text": "TULIP LINE POINTS\n(Period: March 26)",
+                "font_size_pt": 32.0
+            },
+            {
+                "name": "Straight Connector 8",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.3796828521434821,
+                "width_inches": 0.0,
+                "height_inches": 0.8225010936132984
+            },
+            {
+                "name": "Table 4",
+                "type": "TABLE (19)",
+                "is_placeholder": false,
+                "x_inches": 0.33321194225721784,
+                "y_inches": 1.4237510936132984,
+                "width_inches": 12.805682414698163,
+                "height_inches": 4.766832895888014
+            },
+            {
+                "name": "TextBox 6",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.26983048993875763,
+                "y_inches": 1.2248611111111112,
+                "width_inches": 3.743216316710411,
+                "height_inches": 0.20195319335083114,
+                "text": "**Accumulate Point From Last Year Campaign and Until July 25; Total Point Left = 107,125",
+                "font_size_pt": 6.0
+            },
+            {
+                "name": "TextBox 7",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 2.283533464566929,
+                "y_inches": 6.219037620297462,
+                "width_inches": 0.9942705599300088,
+                "height_inches": 1.0434241032370954,
+                "text": "**Actual Point Collected Exclude (x2) Campaign will be 7,343 + 14,132 = 21,475 Points",
+                "font_size_pt": 8.0
+            },
+            {
+                "name": "TextBox 11",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 5.24410542432196,
+                "y_inches": 6.206259842519685,
+                "width_inches": 0.9942705599300088,
+                "height_inches": 1.0434241032370954,
+                "text": "**Actual Point Collected Exclude (x2) Campaign will be 17,928 + 17,926 = 35,854 Points",
+                "font_size_pt": 8.0
+            },
+            {
+                "name": "TextBox 3",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 7.210406824146982,
+                "y_inches": 6.200694444444444,
+                "width_inches": 0.9942705599300088,
+                "height_inches": 1.0434241032370954,
+                "text": "**Actual Point Collected Exclude (x5) Campaign will be 12,584 + 12,643 = 25,227 Points",
+                "font_size_pt": 8.0
+            },
+            {
+                "name": "TextBox 9",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 8.255508530183727,
+                "y_inches": 6.219036526684165,
+                "width_inches": 0.9942705599300088,
+                "height_inches": 1.0434241032370954,
+                "text": "**Actual Point Collected Exclude (x2) Campaign will be 514 + 26,192 = 26,706 Points",
+                "font_size_pt": 8.0
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 13,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Table 3",
+                "type": "TABLE (19)",
+                "is_placeholder": false,
+                "x_inches": 0.5734853455818023,
+                "y_inches": 1.280515091863517,
+                "width_inches": 12.18636154855643,
+                "height_inches": 2.700183727034121
+            },
+            {
+                "name": "TextBox 4",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.5734853455818023,
+                "y_inches": 4.19373687664042,
+                "width_inches": 12.18636154855643,
+                "height_inches": 1.1107425634295713,
+                "text": "Findings\nMax balance points (2,242 points - 1 user)  \nTotal redemptions: 22 times (Total points spent: 625 points)\nRedeemed items:\n1 x คูลเลอร์ล้อลาก\n21 x ผลิตภัณฑ์ทิวลิป",
+                "font_size_pt": 10.0
+            },
+            {
+                "name": "TextBox 7",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.5734853455818023,
+                "y_inches": 5.579943132108486,
+                "width_inches": 12.18636154855643,
+                "height_inches": 1.2790365266841646,
+                "text": "Recommendations\n\nIntroduce Premium Rewards : Offer higher-value or exclusive items to incentivize high-balance users to burn their points.\n\nDrive Aspirational Engagement : Use these premium rewards to motivate the majority of users (the 1-50 points group) to actively collect and redeem points.\n\nImplement 'Earn & Burn' Campaigns : Launch limited-time campaigns to stimulate users to accumulate more points and actively exchange them for rewards.",
+                "font_size_pt": 10.0
+            },
+            {
+                "name": "Group 1",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.2965409011373578,
+                "y_inches": 0.15868766404199475,
+                "width_inches": 8.882767935258093,
+                "height_inches": 0.9729472878390201
+            },
+            {
+                "name": "TextBox 2",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.3273490813648294,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 15.360860673665792,
+                "height_inches": 0.9087893700787402,
+                "text": "TULIP USER BALANCE POINTS RANGE \n(Period: March 26)",
+                "font_size_pt": 32.0
+            },
+            {
+                "name": "Straight Connector 5",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.3796828521434821,
+                "width_inches": 0.0,
+                "height_inches": 0.8225010936132984
+            },
+            {
+                "name": "Picture 8",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 14,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            },
+            {
+                "name": "Picture 5",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Group 20",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.26325459317585304,
+                "y_inches": 0.13311679790026246,
+                "width_inches": 12.283759842519686,
+                "height_inches": 0.9729472878390201
+            },
+            {
+                "name": "TextBox 29",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 12.283759842519686,
+                "height_inches": 0.9087893700787402,
+                "text": "MAJORITY GROUP OF TULIP’s LINE REGISTER – LINE USER FOCUS\n(Period: March 26)",
+                "font_size_pt": 32.0
+            },
+            {
+                "name": "Straight Connector 8",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.3796828521434821,
+                "width_inches": 0.0,
+                "height_inches": 0.8225010936132984
+            },
+            {
+                "name": "TextBox 13",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.22076334208223972,
+                "y_inches": 0.06414479440069991,
+                "width_inches": 1.9883595800524934,
+                "height_inches": 0.23561242344706912,
+                "text": "กลุ่มผู้ใช้งานที่มีคะแนนสะสมในระบบ",
+                "font_size_pt": 8.0
+            },
+            {
+                "name": "TextBox 16",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 5.059931102362205,
+                "y_inches": 2.1298403324584427,
+                "width_inches": 8.27340223097113,
+                "height_inches": 0.9424475065616797,
+                "text": "Findings\nMajority of points balance still be “ร้านขายเครื่องดื่มชงแบบซุ้มหรือเคาน์เตอร์” group, which has earned 7,665 users in March 26 with 4% growth from last month. \nTotal point balance remaining were from 17,536 users comprising with registered users of 23,077 users.\nThe average growth of each group users are increasing around 4% from last month, which was the same .",
+                "font_size_pt": 10.0
+            },
+            {
+                "name": "TextBox 14",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 10.194083552055993,
+                "y_inches": 1.3911286089238846,
+                "width_inches": 2.761169072615923,
+                "height_inches": 0.23561242344706912,
+                "text": "**Total Users on Loyalty Program is 23,077",
+                "font_size_pt": 8.0
+            },
+            {
+                "name": "Rectangle 15",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 10.280057961504811,
+                "y_inches": 0.9649857830271216,
+                "width_inches": 3.0532753718285215,
+                "height_inches": 0.3936964129483815,
+                "text": "Calculated as 76% from Total Registered users on Loyalty Program",
+                "font_size_pt": 10.0
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 15,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            },
+            {
+                "name": "Picture 5",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Group 20",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.22131780402449694,
+                "y_inches": 0.10773622047244094,
+                "width_inches": 8.283759842519686,
+                "height_inches": 0.9729472878390201
+            },
+            {
+                "name": "TextBox 29",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 8.283759842519686,
+                "height_inches": 0.9087893700787402,
+                "text": "TOTAL TULIP LINE POINTS BY RANGE \n(Period: March 26)",
+                "font_size_pt": 32.0
+            },
+            {
+                "name": "Straight Connector 8",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.3796828521434821,
+                "width_inches": 0.0,
+                "height_inches": 0.8225010936132984
+            },
+            {
+                "name": "Rectangle 9",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 2.529864391951006,
+                "y_inches": 3.138947944006999,
+                "width_inches": 1.9791666666666667,
+                "height_inches": 0.2551640419947507,
+                "text": "(Total number of Users)",
+                "font_size_pt": 12.0
+            },
+            {
+                "name": "Arrow: Right 15",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 6.371149387576553,
+                "y_inches": 3.047232064741907,
+                "width_inches": 0.715171697287839,
+                "height_inches": 0.6680008748906386
+            },
+            {
+                "name": "Table 18",
+                "type": "TABLE (19)",
+                "is_placeholder": false,
+                "x_inches": 1.8324890638670166,
+                "y_inches": 4.637240813648294,
+                "width_inches": 3.1672090988626422,
+                "height_inches": 1.6
+            },
+            {
+                "name": "Table 19",
+                "type": "TABLE (19)",
+                "is_placeholder": false,
+                "x_inches": 8.558924978127735,
+                "y_inches": 4.637240813648294,
+                "width_inches": 3.1672090988626422,
+                "height_inches": 1.6
+            },
+            {
+                "name": "Rectangle 3",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.3188495188101487,
+                "y_inches": 6.4146041119860016,
+                "width_inches": 12.822456255468067,
+                "height_inches": 0.7741535433070866,
+                "text": "Findings\nThe majority of users (96%) hold only 1–50 points, with 82% having just 1–10 points.\nVery few users accumulate higher point balances (above 50 points).\nThis indicates limited point accumulation and highlights an opportunity to encourage stronger engagement and point collection behavior.",
+                "font_size_pt": 10.0
+            },
+            {
+                "name": "Rectangle 7",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 11.437502187226597,
+                "y_inches": 1.6372758092738409,
+                "width_inches": 1.8958311461067368,
+                "height_inches": 0.3611111111111111,
+                "text": "Range 1 – 50 pts",
+                "font_size_pt": 12.0
+            },
+            {
+                "name": "Rectangle 6",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 1.3397878390201226,
+                "width_inches": 1.8958311461067368,
+                "height_inches": 0.3611111111111111,
+                "text": "Range 1 – 200 pts",
+                "font_size_pt": 12.0
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 16,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 17",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 0.0,
+                "width_inches": 4.354166666666667,
+                "height_inches": 7.335730533683289,
+                "text": "TULIP FAN DEMO",
+                "font_size_pt": 54.0
+            },
+            {
+                "name": "Rectangle 3",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.09375,
+                "y_inches": 0.20900262467191602,
+                "width_inches": 4.541666666666667,
+                "height_inches": 6.917726377952756
+            },
+            {
+                "name": "Rectangle 4",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.09944335083114611,
+                "y_inches": 0.20900262467191602,
+                "width_inches": 4.541666666666667,
+                "height_inches": 6.917726377952756
+            },
+            {
+                "name": "Rectangle 6",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 4.354166666666667,
+                "y_inches": 0.0,
+                "width_inches": 8.979166666666666,
+                "height_inches": 7.335729440069991
+            },
+            {
+                "name": "Picture 7",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 3.401264216972878,
+                "y_inches": -0.0820330271216098,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 17,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            },
+            {
+                "name": "Picture 5",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Group 19",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.32667541557305335,
+                "y_inches": 0.12677930883639546,
+                "width_inches": 8.579713473315836,
+                "height_inches": 1.4473304899387576
+            },
+            {
+                "name": "Straight Connector 8",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.3796828521434821,
+                "width_inches": 0.0,
+                "height_inches": 0.8225010936132984
+            },
+            {
+                "name": "TextBox 21",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 8.579713473315836,
+                "height_inches": 1.4473304899387576,
+                "text": "TULIP LINE OA REGISTER’s FAN DEMOGRAPHIC\n(Period: March 26)",
+                "font_size_pt": 32.0
+            },
+            {
+                "name": "Picture 2",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 9.609654418197726,
+                "y_inches": 1.2625710848643918,
+                "width_inches": 0.19204068241469816,
+                "height_inches": 0.4969641294838145
+            },
+            {
+                "name": "Picture 2",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 9.564444444444444,
+                "y_inches": 0.642509842519685,
+                "width_inches": 0.237250656167979,
+                "height_inches": 0.4969630358705162
+            },
+            {
+                "name": "TextBox 10",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 8.648450349956255,
+                "y_inches": 0.6782939632545931,
+                "width_inches": 0.9715496500437445,
+                "height_inches": 0.4712237532808399,
+                "text": "Female: \n581 Users",
+                "font_size_pt": 11.0
+            },
+            {
+                "name": "TextBox 11",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 8.603568460192475,
+                "y_inches": 1.27544072615923,
+                "width_inches": 0.9715496500437445,
+                "height_inches": 0.4712237532808399,
+                "text": "Male: \n148 Users",
+                "font_size_pt": 11.0
+            },
+            {
+                "name": "TextBox 12",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 9.813573928258968,
+                "y_inches": 1.0623764216972877,
+                "width_inches": 1.8780938320209974,
+                "height_inches": 0.28610017497812773,
+                "text": "Unspecified: 10 Users",
+                "font_size_pt": 11.0
+            },
+            {
+                "name": "Rectangle 4",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 1.6765671478565178,
+                "width_inches": 2.6666666666666665,
+                "height_inches": 0.4698020559930009,
+                "text": "From Overall of New Registers \n(739 Users)",
+                "font_size_pt": 12.0
+            },
+            {
+                "name": "TextBox 6",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 7.562785433070866,
+                "y_inches": 2.0432283464566927,
+                "width_inches": 5.5601290463692035,
+                "height_inches": 1.2117191601049868,
+                "text": "Findings\nIn March, the campaign experienced a notable increase in new user registrations, with a cumulative increase of 739.\nThe strongest new-register audience is female and concentrated in the 30-39 age band, indicating a clear demographic center of gravity.",
+                "font_size_pt": 11.0
+            },
+            {
+                "name": "TextBox 13",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 6.3311307961504815,
+                "y_inches": 3.5817049431321086,
+                "width_inches": 0.43861767279090114,
+                "height_inches": 0.3365890201224847,
+                "text": "49",
+                "font_size_pt": 14.0
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 18,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            },
+            {
+                "name": "Picture 5",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Picture 2",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 9.943748906386702,
+                "y_inches": 1.2899146981627296,
+                "width_inches": 0.19204068241469816,
+                "height_inches": 0.4969641294838145
+            },
+            {
+                "name": "Picture 2",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 9.898538932633421,
+                "y_inches": 0.6698534558180227,
+                "width_inches": 0.237250656167979,
+                "height_inches": 0.4969630358705162
+            },
+            {
+                "name": "TextBox 10",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 8.649218066491688,
+                "y_inches": 0.7056375765529309,
+                "width_inches": 1.216978346456693,
+                "height_inches": 0.4712237532808399,
+                "text": "Female: \n18,491 Users",
+                "font_size_pt": 11.0
+            },
+            {
+                "name": "TextBox 11",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 8.649218066491688,
+                "y_inches": 1.3027843394575678,
+                "width_inches": 1.1188068678915135,
+                "height_inches": 0.4712237532808399,
+                "text": "Male: \n4,364 Users",
+                "font_size_pt": 11.0
+            },
+            {
+                "name": "TextBox 12",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 10.159547244094489,
+                "y_inches": 1.0963396762904636,
+                "width_inches": 1.8780938320209974,
+                "height_inches": 0.28610017497812773,
+                "text": "Unspecified: 222 Users",
+                "font_size_pt": 11.0
+            },
+            {
+                "name": "Rectangle 4",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 1.59211176727909,
+                "width_inches": 2.6666666666666665,
+                "height_inches": 0.4698020559930009,
+                "text": "From Overall of New Registers \n(23,077 Users)",
+                "font_size_pt": 12.0
+            },
+            {
+                "name": "Group 3",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.32667541557305335,
+                "y_inches": 0.12677930883639546,
+                "width_inches": 8.579713473315836,
+                "height_inches": 1.4473304899387576
+            },
+            {
+                "name": "Straight Connector 6",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.3796828521434821,
+                "width_inches": 0.0,
+                "height_inches": 0.8225010936132984
+            },
+            {
+                "name": "TextBox 19",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 8.579713473315836,
+                "height_inches": 1.4473304899387576,
+                "text": "TULIP LINE OA REGISTER’s FAN DEMOGRAPHIC\n(Period: March 26)",
+                "font_size_pt": 32.0
+            },
+            {
+                "name": "TextBox 6",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 7.170199037620297,
+                "y_inches": 1.947503280839895,
+                "width_inches": 6.163134295713036,
+                "height_inches": 1.0265955818022747,
+                "text": "Findings\nAs of March 2026, most of users is female and the biggest chunk fall within the age range of 30 to 39 at 31.51% from total users 22,338.\nfollowed by minor group of female age 20-29 and 40-49 with approximate 20% each.",
+                "font_size_pt": 11.0
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 19,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 17",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 0.0,
+                "width_inches": 4.354166666666667,
+                "height_inches": 7.335730533683289,
+                "text": "TULIP \nRICH MENU ENGAGEMENT",
+                "font_size_pt": 54.0
+            },
+            {
+                "name": "Rectangle 3",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.09375,
+                "y_inches": 0.20900262467191602,
+                "width_inches": 4.541666666666667,
+                "height_inches": 6.917726377952756
+            },
+            {
+                "name": "Rectangle 4",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.09944335083114611,
+                "y_inches": 0.20900262467191602,
+                "width_inches": 4.541666666666667,
+                "height_inches": 6.917726377952756
+            },
+            {
+                "name": "Rectangle 6",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 4.354166666666667,
+                "y_inches": 0.0,
+                "width_inches": 8.979166666666666,
+                "height_inches": 7.335729440069991
+            },
+            {
+                "name": "Picture 7",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 3.401264216972878,
+                "y_inches": -0.0820330271216098,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 20,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            },
+            {
+                "name": "Picture 5",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Group 20",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.24459317585301837,
+                "y_inches": 0.07600831146106736,
+                "width_inches": 9.026815398075241,
+                "height_inches": 0.9729472878390201
+            },
+            {
+                "name": "TextBox 29",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 9.026815398075241,
+                "height_inches": 0.9087893700787402,
+                "text": "TULIP LINE RICH MENU ENGAGEMENT\n(Period: March  26)",
+                "font_size_pt": 32.0
+            },
+            {
+                "name": "Straight Connector 8",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.3796828521434821,
+                "width_inches": 0.0,
+                "height_inches": 0.8225010936132984
+            },
+            {
+                "name": "TextBox 3",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 5.9125831146106735,
+                "y_inches": 6.409610673665791,
+                "width_inches": 1.2064599737532808,
+                "height_inches": 0.3365890201224847,
+                "text": "634 Clicks",
+                "font_size_pt": 14.0
+            },
+            {
+                "name": "TextBox 4",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 3.6489391951006125,
+                "y_inches": 6.416544181977253,
+                "width_inches": 1.2643110236220472,
+                "height_inches": 0.3365890201224847,
+                "text": "396 Clicks",
+                "font_size_pt": 14.0
+            },
+            {
+                "name": "TextBox 6",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 1.3852952755905512,
+                "y_inches": 6.409610673665791,
+                "width_inches": 1.2064599737532808,
+                "height_inches": 0.3365890201224847,
+                "text": "595 Clicks",
+                "font_size_pt": 14.0
+            },
+            {
+                "name": "TextBox 7",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 3.4877646544181977,
+                "y_inches": 1.233248031496063,
+                "width_inches": 1.516751968503937,
+                "height_inches": 0.3365890201224847,
+                "text": "11,983 Clicks",
+                "font_size_pt": 14.0
+            },
+            {
+                "name": "Picture 10",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 0.8094925634295713,
+                "y_inches": 1.8065944881889764,
+                "width_inches": 6.748827646544182,
+                "height_inches": 4.549834864391951
+            },
+            {
+                "name": "TextBox 11",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 3.4877646544181977,
+                "y_inches": 1.4926093613298337,
+                "width_inches": 1.3676345144356956,
+                "height_inches": 0.28610017497812773,
+                "text": "+2,146 Clicks",
+                "font_size_pt": 11.0
+            },
+            {
+                "name": "TextBox 13",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 1.2915146544181977,
+                "y_inches": 6.656330927384077,
+                "width_inches": 1.3676345144356956,
+                "height_inches": 0.28610017497812773,
+                "text": "+168 Clicks",
+                "font_size_pt": 11.0
+            },
+            {
+                "name": "TextBox 15",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 3.5000885826771655,
+                "y_inches": 6.670524934383202,
+                "width_inches": 1.3676345144356956,
+                "height_inches": 0.28610017497812773,
+                "text": "+5 Clicks",
+                "font_size_pt": 11.0
+            },
+            {
+                "name": "TextBox 16",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 5.751408573928259,
+                "y_inches": 6.656330927384077,
+                "width_inches": 1.3676345144356956,
+                "height_inches": 0.28610017497812773,
+                "text": "+125 Clicks",
+                "font_size_pt": 11.0
+            },
+            {
+                "name": "TextBox 12",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 7.869332895888014,
+                "y_inches": 1.8065944881889764,
+                "width_inches": 4.677681539807524,
+                "height_inches": 1.1107425634295713,
+                "text": "Findings \n\n Loyalty program Rich Menu engagement rose to 11,983 clicks, up 2,146 from last month, which shows stronger navigation activity inside the LINE ecosystem.",
+                "font_size_pt": 10.0
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 21,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 17",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 0.0,
+                "width_inches": 4.354166666666667,
+                "height_inches": 7.335730533683289,
+                "text": "TULIP FAQ",
+                "font_size_pt": 54.0
+            },
+            {
+                "name": "Rectangle 3",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.09375,
+                "y_inches": 0.20900262467191602,
+                "width_inches": 4.541666666666667,
+                "height_inches": 6.917726377952756
+            },
+            {
+                "name": "Rectangle 4",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.09944335083114611,
+                "y_inches": 0.20900262467191602,
+                "width_inches": 4.541666666666667,
+                "height_inches": 6.917726377952756
+            },
+            {
+                "name": "Rectangle 6",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 4.354166666666667,
+                "y_inches": 0.0,
+                "width_inches": 8.979166666666666,
+                "height_inches": 7.335729440069991
+            },
+            {
+                "name": "Picture 7",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 3.401264216972878,
+                "y_inches": -0.0820330271216098,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 22,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            },
+            {
+                "name": "Picture 5",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Group 20",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 9.749037620297463,
+                "height_inches": 0.9729472878390201
+            },
+            {
+                "name": "TextBox 29",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 9.749037620297463,
+                "height_inches": 0.9087893700787402,
+                "text": "TULIP LINE REGISTER’s QUESTIONNAIRES #1\n(Period: March 26)",
+                "font_size_pt": 32.0
+            },
+            {
+                "name": "Straight Connector 8",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.3796828521434821,
+                "width_inches": 0.0,
+                "height_inches": 0.8225010936132984
+            },
+            {
+                "name": "TextBox 3",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 6.361592300962379,
+                "y_inches": 0.6836307961504812,
+                "width_inches": 3.1106299212598425,
+                "height_inches": 0.37024715660542434,
+                "text": "Question: Who are them ?",
+                "font_size_pt": 16.0
+            },
+            {
+                "name": "TextBox 10",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.3862062554680665,
+                "y_inches": 1.0843777340332459,
+                "width_inches": 1.5011143919510062,
+                "height_inches": 0.23561242344706912,
+                "text": "By Users and Percentage",
+                "font_size_pt": 8.0
+            },
+            {
+                "name": "Oval 6",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 11.226715879265091,
+                "y_inches": 0.9275,
+                "width_inches": 1.0990955818022747,
+                "height_inches": 1.0494356955380577,
+                "text": "New Register User in March : +739",
+                "font_size_pt": 10.0
+            },
+            {
+                "name": "Rectangle 2",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.2653827646544182,
+                "y_inches": 5.446376859142608,
+                "width_inches": 12.802567804024497,
+                "height_inches": 0.6058595800524934,
+                "text": "Findings \n ร้านขายเครื่องดื่มชงแบบซุ้ม หรือเคาน์เตอร์ is the No.1 segment (42%), making it the primary registered group.\n Followed by ผู้บริโภค (20%) as the second largest segment.",
+                "font_size_pt": 10.0
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 23,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            },
+            {
+                "name": "Picture 5",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Group 20",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 9.749037620297463,
+                "height_inches": 0.9729472878390201
+            },
+            {
+                "name": "TextBox 29",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 9.749037620297463,
+                "height_inches": 0.9087893700787402,
+                "text": "TULIP LINE REGISTER’s QUESTIONNAIRES #2\n(Period: March 26)",
+                "font_size_pt": 32.0
+            },
+            {
+                "name": "Straight Connector 8",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.3796828521434821,
+                "width_inches": 0.0,
+                "height_inches": 0.8225010936132984
+            },
+            {
+                "name": "TextBox 3",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 6.021314523184602,
+                "y_inches": 0.6836307961504812,
+                "width_inches": 3.3120188101487313,
+                "height_inches": 0.37024715660542434,
+                "text": "Question: Their Buying Habits",
+                "font_size_pt": 16.0
+            },
+            {
+                "name": "TextBox 9",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.3862062554680665,
+                "y_inches": 1.0843777340332459,
+                "width_inches": 1.5011143919510062,
+                "height_inches": 0.23561242344706912,
+                "text": "By Users and Percentage",
+                "font_size_pt": 8.0
+            },
+            {
+                "name": "Oval 6",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 11.180896762904636,
+                "y_inches": 1.2444356955380578,
+                "width_inches": 1.0990955818022747,
+                "height_inches": 1.0494356955380577,
+                "text": "New Register User in March : +739",
+                "font_size_pt": 10.0
+            },
+            {
+                "name": "TextBox 10",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.5159514435695538,
+                "y_inches": 5.3383628608923885,
+                "width_inches": 12.232280183727035,
+                "height_inches": 0.6058595800524934,
+                "text": "Findings \nมากกว่า 1 ครั้งต่อสัปดาห์ is the No.1 segment (37%)\nThis is followed by 1 ครั้งต่อสัปดาห์ (32%)",
+                "font_size_pt": 10.0
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 24,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            },
+            {
+                "name": "Picture 5",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Group 20",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.2721784776902887,
+                "y_inches": 0.10106517935258093,
+                "width_inches": 9.749037620297463,
+                "height_inches": 0.9729472878390201
+            },
+            {
+                "name": "TextBox 29",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 9.749037620297463,
+                "height_inches": 0.9087893700787402,
+                "text": "TULIP LINE REGISTER’s QUESTIONNAIRES #3\n(Period: March 26)",
+                "font_size_pt": 32.0
+            },
+            {
+                "name": "Straight Connector 8",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.3796828521434821,
+                "width_inches": 0.0,
+                "height_inches": 0.8225010936132984
+            },
+            {
+                "name": "TextBox 4",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 5.736591207349082,
+                "y_inches": 0.6836307961504812,
+                "width_inches": 3.784239938757655,
+                "height_inches": 0.37024715660542434,
+                "text": "Question: Their Buying Frequency",
+                "font_size_pt": 16.0
+            },
+            {
+                "name": "Rectangle 10",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 1.5344028871391076,
+                "width_inches": 1.8958311461067368,
+                "height_inches": 0.3611111111111111,
+                "text": "Store",
+                "font_size_pt": 12.0
+            },
+            {
+                "name": "Rectangle 11",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 11.42938210848644,
+                "y_inches": 1.5301443569553805,
+                "width_inches": 1.8958311461067368,
+                "height_inches": 0.3611111111111111,
+                "text": "Consumer",
+                "font_size_pt": 12.0
+            },
+            {
+                "name": "Rectangle 12",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 4.333935914260717,
+                "width_inches": 1.8958311461067368,
+                "height_inches": 0.3611111111111111,
+                "text": "Others",
+                "font_size_pt": 12.0
+            },
+            {
+                "name": "TextBox 14",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.936071741032371,
+                "width_inches": 1.5011143919510062,
+                "height_inches": 0.23561242344706912,
+                "text": "By Users and Percentage",
+                "font_size_pt": 8.0
+            },
+            {
+                "name": "TextBox 13",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 7.259545056867892,
+                "y_inches": 6.171952099737533,
+                "width_inches": 5.783759842519685,
+                "height_inches": 0.7741535433070866,
+                "text": "Findings\nThe largest group of customers bought around 1-2 pouches per purchase.\nBrand only able to penetrate small shops than medium or large-scale shops.\nBulk buyers with over 50 pouches per purchase were also featured in the campaign.",
+                "font_size_pt": 10.0
+            },
+            {
+                "name": "Oval 9",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 10.731560586176728,
+                "y_inches": 0.3933333333333333,
+                "width_inches": 1.0990955818022747,
+                "height_inches": 1.0494356955380577,
+                "text": "New Register User in March : +739",
+                "font_size_pt": 10.0
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 25,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            },
+            {
+                "name": "Picture 5",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Group 20",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.27217957130358705,
+                "y_inches": 0.10228455818022747,
+                "width_inches": 9.749037620297463,
+                "height_inches": 0.9729472878390201
+            },
+            {
+                "name": "TextBox 29",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 9.749037620297463,
+                "height_inches": 0.9087893700787402,
+                "text": "TULIP LINE REGISTER’s QUESTIONNAIRES #4\n(Period: March 26)",
+                "font_size_pt": 32.0
+            },
+            {
+                "name": "Straight Connector 8",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.3796828521434821,
+                "width_inches": 0.0,
+                "height_inches": 0.8225010936132984
+            },
+            {
+                "name": "TextBox 3",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 5.067688101487314,
+                "y_inches": 0.6079363517060368,
+                "width_inches": 3.1979571303587053,
+                "height_inches": 0.37024715660542434,
+                "text": "Question: Brand Alternative",
+                "font_size_pt": 16.0
+            },
+            {
+                "name": "TextBox 9",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.2721784776902887,
+                "y_inches": 0.910923009623797,
+                "width_inches": 1.5011143919510062,
+                "height_inches": 0.23561242344706912,
+                "text": "By Users and Percentage",
+                "font_size_pt": 8.0
+            },
+            {
+                "name": "Oval 6",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 11.010492125984252,
+                "y_inches": 0.5040113735783027,
+                "width_inches": 1.0990955818022747,
+                "height_inches": 1.0494356955380577,
+                "text": "New Register User in March : +739",
+                "font_size_pt": 10.0
+            },
+            {
+                "name": "TextBox 10",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.5169072615923009,
+                "y_inches": 4.7969335083114615,
+                "width_inches": 12.165850831146107,
+                "height_inches": 0.6058595800524934,
+                "text": "Findings \n“อื่นๆ” is the No.1 response (35%), indicating a wide range of alternative brands in the market.\nโกโก้ ดัทซ์ (20%) and โกโก้ริช (20%) follow closely as strong secondary competitors.",
+                "font_size_pt": 10.0
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 26,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 17",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 0.0,
+                "width_inches": 4.354166666666667,
+                "height_inches": 7.335730533683289,
+                "text": "TULIP CONTENTS",
+                "font_size_pt": 54.0
+            },
+            {
+                "name": "Rectangle 3",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.09375,
+                "y_inches": 0.20900262467191602,
+                "width_inches": 4.541666666666667,
+                "height_inches": 6.917726377952756
+            },
+            {
+                "name": "Rectangle 4",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.09944335083114611,
+                "y_inches": 0.20900262467191602,
+                "width_inches": 4.541666666666667,
+                "height_inches": 6.917726377952756
+            },
+            {
+                "name": "Rectangle 6",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 4.354166666666667,
+                "y_inches": 0.0,
+                "width_inches": 8.979166666666666,
+                "height_inches": 7.335729440069991
+            },
+            {
+                "name": "Picture 7",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 3.401264216972878,
+                "y_inches": -0.0820330271216098,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 27,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.06783245844269466,
+                "y_inches": 7.343646106736658,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            },
+            {
+                "name": "Picture 5",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Group 20",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.25838582677165356,
+                "y_inches": 0.08046916010498688,
+                "width_inches": 9.075425415573052,
+                "height_inches": 0.9729472878390201
+            },
+            {
+                "name": "TextBox 29",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 9.075425415573052,
+                "height_inches": 0.9087893700787402,
+                "text": "TULIP LINE BROADCAST PERFORMANCE\n(Period: March 26)",
+                "font_size_pt": 32.0
+            },
+            {
+                "name": "Straight Connector 8",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.3796828521434821,
+                "width_inches": 0.0,
+                "height_inches": 0.8225010936132984
+            },
+            {
+                "name": "TextBox 18",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 8.8769072615923,
+                "y_inches": 1.0217607174103238,
+                "width_inches": 2.134344925634296,
+                "height_inches": 0.28610017497812773,
+                "text": "Post Date: 26/03/2026",
+                "font_size_pt": 11.0
+            },
+            {
+                "name": "TextBox 28",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 2.1163910761154856,
+                "y_inches": 1.0281288276465441,
+                "width_inches": 2.134344925634296,
+                "height_inches": 0.28610017497812773,
+                "text": "Post Date: 02/03/2026",
+                "font_size_pt": 11.0
+            },
+            {
+                "name": "TextBox 12",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.7434153543307087,
+                "y_inches": 4.34678258967629,
+                "width_inches": 10.267836832895888,
+                "height_inches": 2.7936843832020997,
+                "text": "Findings\n\nContent: \"ให้คะแนน X2\" (x2 points)\nAchieved the highest open rate despite a smaller delivery volume, showing a strong ability to convert delivery into immediate opens. \nThe reward-accumulation framing created urgency and a clear, universal benefit. \nSuccessfully drove higher attention and participation because the value is instant and easy to understand.\n\nContent: \"เพิ่มของรางวัลใหม่\" (new rewards added)\nDelivered at a high volume but with a lower open rate compared to x2 points. \nIndicates that expanded reward options are relevant, but not as compelling as an immediate earning incentive. \nPerformance depends on whether users are actively interested in redeeming, rather than creating broad, instant appeal.\n\nContent: \"แจกเมนูเด็ด\" (menu / lifestyle content)\nSuggests that lifestyle or informational content is less effective at driving immediate curiosity. \nEngagement tends to rely on specific user interest (e.g., food/menu preference) rather than a strong promotional hook.",
+                "font_size_pt": 9.0
+            },
+            {
+                "name": "TextBox 12",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 2.1163910761154856,
+                "y_inches": 3.5261515748031496,
+                "width_inches": 1.9819006999125108,
+                "height_inches": 0.7741535433070866,
+                "text": "Delivery\t56,442\nOpen\t9,917\nOpen rate\t17.57%",
+                "font_size_pt": 10.0
+            },
+            {
+                "name": "TextBox 10",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 8.84584208223972,
+                "y_inches": 3.514957349081365,
+                "width_inches": 1.9819006999125108,
+                "height_inches": 0.7741535433070866,
+                "text": "Delivery    59,154\nOpen        8,832\nOpen rate  14.93%",
+                "font_size_pt": 10.0
+            },
+            {
+                "name": "TextBox 3",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 5.452030839895013,
+                "y_inches": 1.0217607174103238,
+                "width_inches": 2.134344925634296,
+                "height_inches": 0.28610017497812773,
+                "text": "Post Date: 06/03/2026",
+                "font_size_pt": 11.0
+            },
+            {
+                "name": "TextBox 10",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 5.481118766404199,
+                "y_inches": 3.526146106736658,
+                "width_inches": 1.9819006999125108,
+                "height_inches": 0.7741535433070866,
+                "text": "Delivery    56,295\nOpen        8,012\nOpen rate  14.23%",
+                "font_size_pt": 10.0
+            },
+            {
+                "name": "Picture 2",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 2.1260640857392827,
+                "y_inches": 1.55544072615923,
+                "width_inches": 1.972227690288714,
+                "height_inches": 1.972227690288714
+            },
+            {
+                "name": "Picture 6",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 5.452030839895013,
+                "y_inches": 1.2991852580927383,
+                "width_inches": 2.0497451881014874,
+                "height_inches": 2.2341294838145234
+            },
+            {
+                "name": "Picture 8",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 8.84584208223972,
+                "y_inches": 1.5330577427821521,
+                "width_inches": 1.9819006999125108,
+                "height_inches": 1.9819006999125108
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 28,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 17",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 0.0,
+                "width_inches": 4.354166666666667,
+                "height_inches": 7.335730533683289,
+                "text": "TULIP SUMMARY",
+                "font_size_pt": 54.0
+            },
+            {
+                "name": "Rectangle 3",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.09375,
+                "y_inches": 0.20900262467191602,
+                "width_inches": 4.541666666666667,
+                "height_inches": 6.917726377952756
+            },
+            {
+                "name": "Rectangle 4",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": -0.09944335083114611,
+                "y_inches": 0.20900262467191602,
+                "width_inches": 4.541666666666667,
+                "height_inches": 6.917726377952756
+            },
+            {
+                "name": "Rectangle 6",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 4.354166666666667,
+                "y_inches": 0.0,
+                "width_inches": 8.979166666666666,
+                "height_inches": 7.335729440069991
+            },
+            {
+                "name": "Picture 7",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 3.401264216972878,
+                "y_inches": -0.0820330271216098,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 29,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Rectangle 1",
+                "type": "AUTO_SHAPE (1)",
+                "is_placeholder": false,
+                "x_inches": 0.0,
+                "y_inches": 7.335730533683289,
+                "width_inches": 13.333333333333334,
+                "height_inches": 0.1642694663167104
+            },
+            {
+                "name": "Google Shape;291;p30",
+                "type": "FREEFORM (5)",
+                "is_placeholder": false,
+                "x_inches": 11.971114391951007,
+                "y_inches": 7.35653980752406,
+                "width_inches": 1.151800087489064,
+                "height_inches": 0.12264982502187227
+            },
+            {
+                "name": "Picture 5",
+                "type": "PICTURE (13)",
+                "is_placeholder": false,
+                "x_inches": 12.380430883639544,
+                "y_inches": 0.0,
+                "width_inches": 0.9529024496937882,
+                "height_inches": 0.9529024496937882
+            },
+            {
+                "name": "Group 20",
+                "type": "GROUP (6)",
+                "is_placeholder": false,
+                "x_inches": 0.23769575678040245,
+                "y_inches": 0.09309273840769904,
+                "width_inches": 9.075425415573052,
+                "height_inches": 0.9729472878390201
+            },
+            {
+                "name": "TextBox 29",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.22923665791776027,
+                "width_inches": 9.075425415573052,
+                "height_inches": 0.9087893700787402,
+                "text": "TULIP LINE EXECUTIVE SUMMARY\n(Period: Feb 26)",
+                "font_size_pt": 32.0
+            },
+            {
+                "name": "Straight Connector 8",
+                "type": "LINE (9)",
+                "is_placeholder": false,
+                "x_inches": 0.32735126859142605,
+                "y_inches": 0.3796828521434821,
+                "width_inches": 0.0,
+                "height_inches": 0.8225010936132984
+            },
+            {
+                "name": "TextBox 14",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 0.3410115923009624,
+                "y_inches": 1.3842902449693788,
+                "width_inches": 6.210317147856518,
+                "height_inches": 6.1595702099737535,
+                "text": "Summary\n\nLINE OA continued strong growth, reaching 73.7K friends, driven mainly by LINE platform campaigns, while new user acquisition remained heavily reliant on in app LINE traffic.\nMarch 2026 showed strong top-funnel growth, with 4,408 new friends added and clear momentum from LINE Lap.\nThe quality of acquisition improved after the shift from lucky draw to x2 points and redemption-led value, as reflected in healthier block-rate behavior and stronger redemption activity.\nThe most valuable audience is now clear: female users aged 30-39 and small beverage-shop operators, especially ร้านขายเครื่องดื่มชงแบบซุ้ม หรือเคาน์เตอร์ .\nLead with earning (x2 points) to drive attention, then follow with rewards to convert, and use content as support , structure campaigns as a funnel, not one-off sends.\nMarch campaign performance shows a clear difference in user motivation. Among the three campaign themes launched this month, x2 points generated the highest open rate at 17.57%, outperforming added rewards at 14.23% and menu communication at 14.93%.\nThis indicates that users are most responsive to campaigns built around immediate and tangible benefit. In this case, earn more now proved to be a stronger trigger than either more options to redeem or program/menu update.\nAlways communicate immediate value (“what do I get now?”)  this is the key driver behind higher opens, engagement, and conversion.\nInstead of treating campaigns separately, design a flow:\nx2 points → drive opens + earn behavior \nnew rewards → convert to redemption \nmenu/content → sustain engagement \n   This turns campaigns into a funnel\nOverall, Tulip CRM is succeeding at reaching the right audience, but it now needs to convert that audience more effectively from add-friend into register, earn, redeem, and repeat behavior.",
+                "font_size_pt": 10.0
+            },
+            {
+                "name": "TextBox 15",
+                "type": "TEXT_BOX (17)",
+                "is_placeholder": false,
+                "x_inches": 6.782004593175853,
+                "y_inches": 1.3842902449693788,
+                "width_inches": 6.210316054243219,
+                "height_inches": 4.543945756780403,
+                "text": "Recommendations\n\nPrioritize point multiplier campaigns as the main monthly traffic driver, because March shows they generate the strongest immediate response and are the clearest value proposition for users.\nSequence campaigns more intentionally:\nStart with earn messaging such as x2 points to drive opens and attention.\nFollow with redeem messaging to convert that attention into reward usage.\nUse menu or feature-update messaging only as support, not as the lead campaign.\nUse block rate as a quality KPI, not just a support metric. March suggests better acquisition quality, so future campaigns should be judged not only by how many users they bring in, but also by how many users stay and continue engaging.\nReduce over-reliance on one acquisition source. LINE Lap is performing well, but the brand should strengthen secondary sources so monthly growth is less dependent on one channel.\nExpand premium or aspirational rewards for high-value users current point accumulation is too low, and the reward structure isn’t strong enough to build long-term loyalty.",
+                "font_size_pt": 11.0
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    },
+    {
+        "slide_index": 30,
+        "slide_role": "Title and Content",
+        "objects": [
+            {
+                "name": "Title 1",
+                "type": "PLACEHOLDER (14)",
+                "is_placeholder": true,
+                "x_inches": 0.9166666666666666,
+                "y_inches": 3.0251738845144356,
+                "width_inches": 11.5,
+                "height_inches": 1.449653324584427,
+                "text": "THANK YOU",
+                "font_size_pt": 66.0,
+                "placeholder_id": 0
+            }
+        ],
+        "style": {
+            "background_color": null
+        }
+    }
+]

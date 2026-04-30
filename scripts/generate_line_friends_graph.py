@@ -13,8 +13,7 @@ data = [
     { "date_record": "2025-12-31", "target_reach": 50281, "blocked_count": 11066 },
     { "date_record": "2026-01-31", "target_reach": 55197, "blocked_count": 12345 },
     { "date_record": "2026-02-28", "target_reach": 56433, "blocked_count": 13411 },
-    { "date_record": "2026-03-31", "target_reach": 59108, "blocked_count": 14607 },
-    { "date_record": "2026-04-27", "target_reach": 59161, "blocked_count": 14829 }
+    { "date_record": "2026-03-31", "target_reach": 59108, "blocked_count": 14607 }
 ]
 
 # Convert to DataFrame
@@ -61,7 +60,7 @@ for i in range(len(df)):
     plt.text(df['date_record'][i], df['blocked_count'][i] - 2500, lbl_blocked, ha='center', va='top', fontsize=10, color=color_blocked, fontweight='bold')
 
 # Formatting
-plt.title('Line Friends Growth (June 2025 - April 2026)', fontsize=18)
+plt.title('Line Friends Growth (June 2025 - March 2026)', fontsize=18)
 plt.xlabel('Date', fontsize=14)
 plt.ylabel('Count', fontsize=14)
 

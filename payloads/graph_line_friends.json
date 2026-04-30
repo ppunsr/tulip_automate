@@ -1,0 +1,25 @@
+{
+  "output_filename": "graph/line_friends_report_graph.png",
+  "title": "Line Friends Growth (June 2025 - February 2026)",
+  "x_label": "Date",
+  "y_label": "Count",
+  "chart_type": "line",
+  "calculate_mom": true,
+  "x_axis_col": "date_record",
+  "data": [
+    { "date_record": "2025-06-30", "total_friend": 44905, "target_reach": 37955, "blocked_count": 6950 },
+    { "date_record": "2025-07-31", "total_friend": 45418, "target_reach": 38280, "blocked_count": 7138 },
+    { "date_record": "2025-08-31", "total_friend": 48837, "target_reach": 40909, "blocked_count": 7928 },
+    { "date_record": "2025-09-30", "total_friend": 51911, "target_reach": 43244, "blocked_count": 8667 },
+    { "date_record": "2025-10-31", "total_friend": 55198, "target_reach": 45518, "blocked_count": 9680 },
+    { "date_record": "2025-11-30", "total_friend": 55796, "target_reach": 45572, "blocked_count": 10224 },
+    { "date_record": "2025-12-31", "total_friend": 61347, "target_reach": 50281, "blocked_count": 11066 },
+    { "date_record": "2026-01-31", "total_friend": 67542, "target_reach": 55197, "blocked_count": 12345 },
+    { "date_record": "2026-02-28", "total_friend": 69844, "target_reach": 56433, "blocked_count": 13411 }
+  ],
+  "series": [
+    {"column": "total_friend", "label": "Total Friend (Friends + Blocked)", "color": "#1f77b4"},
+    {"column": "target_reach", "label": "Friends (target_reach)", "color": "#ff7f0e"},
+    {"column": "blocked_count", "label": "Blocked (blocked_count)", "color": "#d62728"}
+  ]
+}

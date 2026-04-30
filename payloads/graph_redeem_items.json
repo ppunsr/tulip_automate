@@ -1,0 +1,23 @@
+{
+  "output_filename": "graph/redeem_by_items_graph.png",
+  "title": "Redeem (By Items) - March 2026",
+  "x_label": "Reward Item",
+  "y_label": "Total Items Redeemed",
+  "chart_type": "bar",
+  "calculate_mom": false,
+  "x_axis_col": "reward",
+  "data": [
+    {"reward": "ผลิตภัณฑ์ทิวลิป", "total_items": 680, "image_path": "reward/slide9_image_11.png"},
+    {"reward": "True Money 100", "total_items": 74, "image_path": "reward/slide9_image_12.png"},
+    {"reward": "True Money 500", "total_items": 65, "image_path": "reward/slide9_image_13.png"},
+    {"reward": "บัตรของขวัญ MK", "total_items": 40, "image_path": "reward/slide9_image_14.png"},
+    {"reward": "พัดลม Hatari", "total_items": 21, "image_path": "reward/slide9_image_15.png"},
+    {"reward": "บัตรเติมน้ำมัน", "total_items": 18, "image_path": "reward/slide9_image_2.png"},
+    {"reward": "เครื่องปั่น", "total_items": 10, "image_path": "reward/slide9_image_3.png"},
+    {"reward": "ร่มสนาม", "total_items": 9, "image_path": "reward/slide9_image_4.png"},
+    {"reward": "เก้าอี้สนาม", "total_items": 6, "image_path": "reward/slide9_image_5.png"}
+  ],
+  "series": [
+    {"column": "total_items", "label": "Items Redeemed", "color": "#5C3225"}
+  ]
+}
